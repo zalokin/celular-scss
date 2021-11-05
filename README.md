@@ -1,3 +1,3 @@
-# CELULAR con SASS 
+# CELULAR con SCSS 
 
-Diseño de celular con SASS
+Diseño de celular con SCSS
